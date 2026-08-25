@@ -11,7 +11,7 @@ I'm interested in quantitative research and machine learning, especially problem
 ## Selected Projects
 
 - **[EfficientViT for Video Action Recognition](https://github.com/DerekCJin/efficientvit_vid)** - Lead-author IEEE BigData 2024 research extending EfficientViT to video action recognition
-- **[FUTWCC 2026 Forecast](...)** - Monte Carlo and Elo-based forecasting for the 2026 FIDE World University Team Chess Championship
-- **[jetson-containers-video](...)** - Adaptations and fixes for video workflows using NVIDIA Jetson containers
+- **[FUTWCC 2026 Forecast](https://github.com/DerekCJin/futwcc-2026-forecast)** - Monte Carlo and Elo-based forecasting for the 2026 FIDE World University Team Chess Championship
+- **[jetson-containers-video](https://github.com/DerekCJin/jetson-containers-video)** - Adaptations and fixes for video workflows using NVIDIA Jetson containers
 
-[LinkedIn](...)
+[LinkedIn](https://www.linkedin.com/in/derek-j-254899315/)
